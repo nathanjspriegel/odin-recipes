@@ -1,0 +1,45 @@
+body {
+    background-color: #dab89c;
+    font-family: Garamond, Georgia;
+}
+
+.header {
+   color: #8A5F41;
+   background-color: #F3E4C9;
+   padding: 4px;
+   width: 150px;
+   text-align: center;
+   
+}
+
+.dish {
+    text-align: center;
+    color: #8A5F41;
+    background-color: #F3E4C9;
+    padding: 6px;
+    width: 300px;
+    margin: 16px auto;
+}
+
+.dish-image {
+    display: block;
+    margin: 10px auto;
+    width: 250px;
+    border: 5px solid #F3E4C9;
+}
+
+.content-color {
+    color: #553c2a;
+}
+
+.title {
+    color:#8A5F41;
+    background-color: #F3E4C9;
+    width: 250px;
+    margin: 16px auto;
+    text-align: center;
+}
+
+.align {
+    margin: 16px 50px;
+}
